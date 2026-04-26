@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("ola meu nome é samara"); 
+    printf("ola meu nome é samara\n"); 
     return 0;
 }
